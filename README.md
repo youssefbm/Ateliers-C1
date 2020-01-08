@@ -28,7 +28,7 @@ Vous trouverez ci-dessous des suggestions d'activités pour vous aider à pratiq
 4 - Créez une liste ordonnée commençant par le chiffre 11. Ensuite, inversez la liste. Donnez-lui le titre suivant (lorsque vous passez votre souris, le titre devrait s'afficher sous forme d'info-bulle) : " Liste d'activités ".
 
 ## Activité 3 - Eléments sémantiques
-1 - Quel est le rapport entre <header> et <h1> ? Quelle est la différence entre eux ?
+1 - Quel est le rapport entre header et h1 ? Quelle est la différence entre eux ?
         
 2 - Créez une page HTML bien structurée en utilisant autant d'éléments sémantiques que possible.
 
