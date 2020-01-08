@@ -1,6 +1,6 @@
 # Ateliers-C1
 
-##Atelier 1
+## Atelier 1
 1. Comparez et mettez en contraste ces deux différents guides de style HTML :
 
         jQuery - https://contribute.jquery.org/style-guide/html/ 
