@@ -15,6 +15,7 @@ Vous trouverez ci-dessous des suggestions d'activités pour vous aider à pratiq
 2. Consultez le vérificateur HTML du W3C http://validator.w3.org/ :
 
 2.1 - Essayez " Saisie directe " et tapez du code HTML5 avec des erreurs pour voir ce qu'il détecte.
+
 2.2 - En utilisant "Validate by URI", essayez certains sites Web populaires et voyez si vous pouvez trouver des erreurs.
 
 ## Activité 2 - Attributs
