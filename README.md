@@ -52,7 +52,7 @@ Vous trouverez ci-dessous des suggestions d'activités pour vous aider à pratiq
 
 5 - Reportez-vous au didacticiel sur les images WAI pour obtenir un guide sur la rédaction du texte de remplacement.
 
-## Activités - Hyperliens
+## Activités 5 - Hyperliens
 1. Tester l'élément d'ancrage en fournissant des liens brisés ou non valides. Comment le navigateur réagit-il ?
 
 2. Créez une page simple " Contactez-moi " et incluez ce qui suit en utilisant des hyperliens lorsque c'est possible :
