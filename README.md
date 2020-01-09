@@ -67,7 +67,7 @@ Avec le HTML "Activité 7 - Unités.html", veuillez dimensionner le texte en uti
 4. Modifiez la balise h1 pour qu'elle utilise les unités px. Lorsque la règle CSS racine est modifiée, la balise h1 ne s'ajuste plus avec le reste du document.
 
 ## Activité 8 - listes
-Le HTML qui suit est pour une simple liste.  Insérez-la dans un fichier HTML correctement formé et mettez-la en forme.  Essayez de vous assurer que ce qui suit est fait :
+Mettez en forme la page html "Activité 8 - listes.html".  Essayez de vous assurer que ce qui suit est fait :
 
 1. Espacer les éléments de la liste d'au moins 20 pixels du bord gauche de la page
 2. Espacer les éléments de la liste d'au moins 10 pixels l'un de l'autre
