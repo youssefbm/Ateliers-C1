@@ -7,9 +7,13 @@ Vous trouverez ci-dessous des suggestions d'activités pour vous aider à pratiq
   - Google - https://google.github.io/styleguide/htmlcssguide.html
 
 1.1. Sont-ils cohérents entre eux ? Y a-t-il des règles qui ne semblent pas avoir de sens ?
+
 1.2. Pouvez-vous trouver d'autres guides de style ou normes de codage qui sont en accord ou en désaccord avec certaines des suggestions contenues dans l'un de ces guides ?
+
 2. Consultez le vérificateur HTML du W3C http://validator.w3.org/ :
+
 2.1. Essayez " Saisie directe " et tapez du code HTML5 avec des erreurs pour voir ce qu'il détecte.
+
 2.2. En utilisant "Validate by URI", essayez certains sites Web populaires et voyez si vous pouvez trouver des erreurs.
 
 ## Activité 2 - Attributs
@@ -27,7 +31,7 @@ Vous trouverez ci-dessous des suggestions d'activités pour vous aider à pratiq
 
 2. Créez une page HTML bien structurée en utilisant autant d'éléments sémantiques que possible.
 
-3. Écrivez une courte page HTML qui utilise les balises <div> et <span>. Vous n'avez pas besoin de les styliser.
+3. Écrivez une courte page HTML qui utilise les balises div et span. Vous n'avez pas besoin de les styliser.
 
 4. Article vs section?
 
@@ -75,7 +79,7 @@ Le HTML qui suit est pour une simple liste.  Insérez-la dans un fichier HTML co
 8. Diviser les règles CSS en deux fichiers .css différents. Un fichier doit contenir toutes les règles d'espacement, l'autre toutes les règles régissant les polices ou les couleurs.  
 9. Reliez les deux dans votre document HTML.
 10. Au lieu de numéros, faire indexer les éléments de la liste par l'alphabet.
-11. Changer la balise <ol> en <ul> (et la balise fermante </ol> en </ul>) et donner un style aux éléments de la liste pour qu'ils aient des puces carrées.
+11. Changer la balise ol en ul et donner un style aux éléments de la liste pour qu'ils aient des puces carrées.
 12. Utiliser la forme triange dans le repo (my_triangle) et stylisez les éléments de la liste pour qu'ils affichenet les triangle au lieu des puces carrées.
 
 ## Activité 9 - sélecteurs CSS
@@ -90,7 +94,7 @@ En utilisant le HTML "Activité 9 - sélecteurs CSS.html" , veuillez styliser le
 7. La liste pour Middlemarch a été déplacée vers la droite
 8. La police Serif n'est utilisée nulle part sur la page
 
-Pouvez-vous obtenir le même style sans ajouter de nouvelles balises (c'est-à-dire sans ajouter <i> ou <b> ou <span>) ? N'hésitez pas à modifier le HTML, mais essayez de ne pas ajouter de nouveaux attributs id, si possible.
+Pouvez-vous obtenir le même style sans ajouter de nouvelles balises (c'est-à-dire sans ajouter i ou b ou span) ? N'hésitez pas à modifier le HTML, mais essayez de ne pas ajouter de nouveaux attributs id, si possible.
 
 ## Activité 10 - Débogueur
 1. En utilisant votre navigateur préféré, naviguez vers Wikipedia.org. En utilisant les outils de développement, changez le titre et l'en-tête de la page en "Mon Wikipedia" et changez le fond en vert clair.
