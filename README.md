@@ -4,9 +4,9 @@ Vous trouverez ci-dessous des suggestions d'activités pour vous aider à pratiq
 ## Activité 1 - Style guides
 1. Comparez et mettez en contraste ces deux différents guides de style HTML :
 
-        jQuery - https://contribute.jquery.org/style-guide/html/ 
-        
-        Google - https://google.github.io/styleguide/htmlcssguide.html 
+        jQuery - https://contribute.jquery.org/style-guide/html/
+
+        Google - https://google.github.io/styleguide/htmlcssguide.html
 
 1.1 - Sont-ils cohérents entre eux ? Y a-t-il des règles qui ne semblent pas avoir de sens ?
 
@@ -30,11 +30,11 @@ Vous trouverez ci-dessous des suggestions d'activités pour vous aider à pratiq
 
 ## Activité 3 - Eléments sémantiques
 1 - Quel est le rapport entre header et h1 ? Quelle est la différence entre eux ?
-        
+
 2 - Créez une page HTML bien structurée en utilisant autant d'éléments sémantiques que possible.
 
 3 - Écrivez une courte page HTML qui utilise les balises <div> et <span>. Vous n'avez pas besoin de les styliser.
-      
+
 4 - Article vs section?
 
 ## Activité 4 - Eléments images
@@ -67,3 +67,45 @@ Dans la même page, ajoutez la navigation au début pour les parties de votre pa
 
 4. Pouvez-vous imaginer différents scénarios dans lesquels vous utiliseriez les valeurs cibles '_self' et '_blank' ?
 
+## Activités 6 - Utilise le CSS
+Utilisez le CSS sur le code HTML dans le repo. Essayez différents styles, expérimentez et amusez-vous.
+
+## Activité 7 - Unités
+Avec le HTML dans le repo, veuillez dimensionner le texte en utilisant des unités différentes :
+
+- Utilisez les unités px pour définir la taille de la racine du texte pour le document.
+
+- Utilisez les unités rem pour la taille des balises h1 et li.
+
+- Modifiez la taille du texte de la racine de la règle CSS. Vous devez observer que tout le texte du document s'ajuste de façon appropriée.
+
+- Modifiez la balise h1 pour qu'elle utilise les unités px. Lorsque la règle CSS racine est modifiée, la balise h1 ne s'ajuste plus avec le reste du document.
+
+## Activité 8 - listes
+Le HTML qui suit est pour une simple liste.  Insérez-la dans un fichier HTML correctement formé et mettez-la en forme.  Essayez de vous assurer que ce qui suit est fait :
+
+- espacer les éléments de la liste d'au moins 20 pixels du bord gauche de la page
+
+- espacer les éléments de la liste d'au moins 10 pixels l'un de l'autre
+
+- centrer l'en-tête
+
+- garder la liste à au moins 50 pixels de l'en-tête
+
+- les titres des livres de la liste ne doivent pas être affichés dans une police à empattement
+
+- l'en-tête doit utiliser une police différente de celle de la liste
+
+- le texte de l'en-tête doit être rouge foncé.
+
+- diviser les règles CSS en deux fichiers .css différents. Un fichier doit contenir toutes les règles d'espacement, l'autre toutes les règles régissant les polices ou les couleurs.  
+
+- Reliez les deux dans votre document HTML.
+
+- au lieu de numéros, faire indexer les éléments de la liste par l'alphabet.
+
+- changer la balise <ol> en <ul> (et la balise fermante </ol> en </ul>) et donner un style aux éléments de la liste pour qu'ils aient des puces carrées.
+
+- Utiliser la forme triange dans le repo (my_triangle) et stylisez les éléments de la liste pour qu'ils affichenet les triangle au lieu des puces carrées.
+
+## Activité 8 - sélecteurs CSS
