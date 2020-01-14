@@ -95,3 +95,29 @@ Pouvez-vous obtenir le même style sans ajouter de nouvelles balises (c'est-à-d
 1. En utilisant votre navigateur préféré, naviguez vers Wikipedia.org. En utilisant les outils de développement, changez le titre et l'en-tête de la page en "Mon Wikipedia" et changez le fond en vert clair.
   -Astuce : utilisez " Inspecter " ou " Inspecter l'élément ".
 2. Dans une autre fenêtre de navigateur, ouvrez Wikipedia.org. Est-ce qu'il ressemble à celui que vous avez modifié ? Pourquoi ou pourquoi pas ? Est-ce que tu viens de briser Wikipedia pour le reste du monde ?
+
+## Activité 11 - Tableaux
+1. Créez le tableau illustré dans l'image dans le repo (table 1.png) avec le même contenu de cellule.
+2. Créez la structure de tableau  (dans table 2.png) en utilisant HTML et CSS en suivant le style le plus fidèlement possible en notant la bordure du tableau, les couleurs, etc. Faites en sorte que la table couvre toute la largeur de l'écran. Insérez des valeurs de texte fictives pour la table.
+3. Trouvez une table utilisée dans une vraie page Web dont le corps de la table peut être défilé.
+4. Créez un simple survol pour mettre en évidence le tableau qui rend la couleur de fond d'une ligne " jaune " lorsque vous survolez une ligne du tableau.
+
+## Activité 11 - Multimédia
+1. Intégrez un fichier audio dans une page HTML avec les exigences suivantes :
+- Le lecteur a des contrôles pour la lecture, la pause, la recherche, etc.
+- L'audio doit démarrer automatiquement au chargement de la page
+- L'audio doit être coupé au début de la lecture
+2. Créez un lecteur audio HTML qui lit un fichier audio de votre choix dans Google Chrome, Internet Explorer et Mozilla Firefox. Utilisez plusieurs sources si nécessaire.
+3. Créez un lecteur vidéo HTML qui lit un fichier vidéo de votre choix dans Google Chrome, Internet Explorer et Mozilla Firefox. Utilisez plusieurs sources si nécessaire.
+
+## Activité 12 - en bloc vs en ligne
+- Nous vous avons fourni un dossier de projet de démarrage. Le code est inclus ci-dessous dans le repo (Activité - en bloc vs en ligne.html)
+- Essayez ce qui suit :
+1. Remarquez immédiatement que chaque paragraphe a sa propre ligne.
+2.Remarquez que l'intervalle de ligne qui suit le paragraphe (</p>) commence sur sa propre ligne. Cependant, le second span en ligne suit directement son prédécesseur - il n'obtient pas une nouvelle ligne, il continue sur la même ligne.
+3. Essayez d'appliquer les classes brect et prect aux éléments. (via class="brect" ). Lorsqu'elles sont appliquées aux paragraphes, vous pouvez voir que les classes font en sorte que la largeur du paragraphe s'étende jusqu'au bord de la fenêtre. Elle est identique à la largeur de son parent.  Notez que sa hauteur n'est pas supérieure à son contenu.  Mais les couleurs de fond et les bordures sont serrées aux portées.
+4. Essayez d'appliquer la classe w à chacun des éléments. Cette classe définit la propriété width. Elle fonctionne sur les deux paragraphes, mais elle n'a aucun effet sur les deux spans.
+5. Essayez d'appliquer la classe h à chaque élément. Cette classe définit la propriété de hauteur. Encore une fois, les paragraphes sont affectés, mais pas les spans.
+6. Appliquez la classe pad à chaque élément. Cette classe définit la propriété padding. Les paragraphes sont clairement rembourrés. Les spans sont également paddées, mais le padding supplémentaire ne les espace pas. Ainsi, si les couleurs d'arrière-plan sont toujours appliquées, l'arrière-plan capitonné d'un élément en ligne peut se superposer à l'autre.  Pouvez-vous penser à une solution qui empêcherait ce chevauchement ?
+7. Appliquer la classe marg-vert à chaque élément. Cette classe définit les marges supérieure et inférieure. Notez qu'elle fonctionne assez bien sur les paragraphes au niveau du bloc, mais n'a aucun effet sur les portées en ligne.
+8. Appliquer la classe marg-horiz à chaque élément. Cette classe définit les marges gauche et droite.  Elle fonctionne sur tout.
