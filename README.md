@@ -107,7 +107,7 @@ Pouvez-vous obtenir le même style sans ajouter de nouvelles balises (c'est-à-d
 3. Trouvez une table utilisée dans une vraie page Web dont le corps de la table peut être défilé.
 4. Créez un simple survol pour mettre en évidence le tableau qui rend la couleur de fond d'une ligne " jaune " lorsque vous survolez une ligne du tableau.
 
-## Activité 11 - Multimédia
+## Activité 12 - Multimédia
 1. Intégrez un fichier audio dans une page HTML avec les exigences suivantes :
 - Le lecteur a des contrôles pour la lecture, la pause, la recherche, etc.
 - L'audio doit démarrer automatiquement au chargement de la page
@@ -115,7 +115,7 @@ Pouvez-vous obtenir le même style sans ajouter de nouvelles balises (c'est-à-d
 2. Créez un lecteur audio HTML qui lit un fichier audio de votre choix dans Google Chrome, Internet Explorer et Mozilla Firefox. Utilisez plusieurs sources si nécessaire.
 3. Créez un lecteur vidéo HTML qui lit un fichier vidéo de votre choix dans Google Chrome, Internet Explorer et Mozilla Firefox. Utilisez plusieurs sources si nécessaire.
 
-## Activité 12 - en bloc vs en ligne
+## Activité 13 - en bloc vs en ligne
 - Nous vous avons fourni un dossier de projet de démarrage. Le code est inclus ci-dessous dans le repo (Activité - en bloc vs en ligne.html)
 - Essayez ce qui suit :
 1. Remarquez immédiatement que chaque paragraphe a sa propre ligne.
