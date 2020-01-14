@@ -119,7 +119,7 @@ Pouvez-vous obtenir le même style sans ajouter de nouvelles balises (c'est-à-d
 - Nous vous avons fourni un dossier de projet de démarrage. Le code est inclus ci-dessous dans le repo (Activité - en bloc vs en ligne.html)
 - Essayez ce qui suit :
 1. Remarquez immédiatement que chaque paragraphe a sa propre ligne.
-2.Remarquez que l'intervalle de ligne qui suit le paragraphe (</p>) commence sur sa propre ligne. Cependant, le second span en ligne suit directement son prédécesseur - il n'obtient pas une nouvelle ligne, il continue sur la même ligne.
+2.Remarquez que l'intervalle de ligne qui suit le paragraphe (/p) commence sur sa propre ligne. Cependant, le second span en ligne suit directement son prédécesseur - il n'obtient pas une nouvelle ligne, il continue sur la même ligne.
 3. Essayez d'appliquer les classes brect et prect aux éléments. (via class="brect" ). Lorsqu'elles sont appliquées aux paragraphes, vous pouvez voir que les classes font en sorte que la largeur du paragraphe s'étende jusqu'au bord de la fenêtre. Elle est identique à la largeur de son parent.  Notez que sa hauteur n'est pas supérieure à son contenu.  Mais les couleurs de fond et les bordures sont serrées aux portées.
 4. Essayez d'appliquer la classe w à chacun des éléments. Cette classe définit la propriété width. Elle fonctionne sur les deux paragraphes, mais elle n'a aucun effet sur les deux spans.
 5. Essayez d'appliquer la classe h à chaque élément. Cette classe définit la propriété de hauteur. Encore une fois, les paragraphes sont affectés, mais pas les spans.
