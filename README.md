@@ -126,3 +126,13 @@ Pouvez-vous obtenir le même style sans ajouter de nouvelles balises (c'est-à-d
 6. Appliquez la classe pad à chaque élément. Cette classe définit la propriété padding. Les paragraphes sont clairement rembourrés. Les spans sont également paddées, mais le padding supplémentaire ne les espace pas. Ainsi, si les couleurs d'arrière-plan sont toujours appliquées, l'arrière-plan capitonné d'un élément en ligne peut se superposer à l'autre.  Pouvez-vous penser à une solution qui empêcherait ce chevauchement ?
 7. Appliquer la classe marg-vert à chaque élément. Cette classe définit les marges supérieure et inférieure. Notez qu'elle fonctionne assez bien sur les paragraphes au niveau du bloc, mais n'a aucun effet sur les portées en ligne.
 8. Appliquer la classe marg-horiz à chaque élément. Cette classe définit les marges gauche et droite.  Elle fonctionne sur tout.
+
+## Activité 14 - Image de coin
+Le fichier projet (Activité 14 - Image de coin.html) est constitué d'un très long morceau de prose et à la fin il a une seule balise "img".  
+
+1. Obtenez que l'élément "img" de la pièce d'angle apparaisse en bas à droite de la fenêtre de visualisation.  Il ne doit pas défiler avec le reste du document.
+2. Cette pièce d'angle obscurcit probablement tout texte qu'elle recouvre. Essayez de faire en sorte que le texte du document soit en haut de la pièce d'angle. Vous devrez ajuster le HTML pour y parvenir.
+3. Cette pièce d'angle est certainement un graphique décoratif. Supprimez la balise <img> et utilisez le CSS décoratif. Encore une fois, vous devrez modifier le code HTML pour y parvenir.
+
+## Activité 15 - Flexbox de base
+1. En utilisant flexbox, modifiez la mise en page de la page "Activité 15 - Flexbox de base.html" pour qu'elle corresponde à la mise en page affichée dans "Flexbox layout.png".
